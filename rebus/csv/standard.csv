@@ -1,0 +1,11 @@
+Standard,Version Number,Effective Date,Category Number,Category Name,Requirement Number,Requirement Description,Requirement Simple Description,Ratings,Rating Description
+stand4,1.1,4/14/2017,1,ACCESS CONTROL,1,requirement 21,requirement simple 21,Open-O,System is not compliant with this requirement
+stand4,1.1,4/14/2017,1,ACCESS CONTROL,2,requirement 22,requirement simple 22,Not a Finding-NF,System is compliant with this standard
+stand4,1.1,4/14/2017,1,ACCESS CONTROL,3,requirement 23,requirement simple 23,Not Applicable-NA,Requirement is not applicable to this system
+stand4,1.1,4/14/2017,2,CONFIGURATION MANAGEMENT,1,requirement 24,requirement simple 24,,
+stand4,1.1,4/14/2017,2,CONFIGURATION MANAGEMENT,2,requirement 25,requirement simple 25,,
+stand4,1.1,4/14/2017,3,INCIDENT RESPONSE,1,requirement 26,requirement simple 26,,
+stand4,1.1,4/14/2017,4,MAINTENANCE,1,requirement 27,requirement simple 27,,
+stand4,1.1,4/14/2017,4,MAINTENANCE,2,requirement 28,requirement simple 28,,
+stand4,1.1,4/14/2017,4,MAINTENANCE,3,requirement 29,requirement simple 29,,
+stand4,1.1,4/14/2017,5,PHYSICAL PROTECTION,1,requirement 30,requirement simple 30,,
